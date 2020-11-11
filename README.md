@@ -1,11 +1,11 @@
 
 ![banner]()
 
-## Hi there 👋  My name is Abdullah Albasha!
+## <h2 align="center">Hi there 👋  My name is Abdullah Albasha!</h4>
 
 <p>I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails and JavaScript based programming. Passionate about learning new cutting edge technologies, languages, and frameworks. Excels as a team player and able to work independently. Ability to learn and master new technologies quickly, Highly adaptable and engaged to problem solve effectively.
   
-## Flatiron School Projects:
+## <h2 align="center">Flatiron School Projects</h4>
   - **"JustRight"**- A single page app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
   - **"FlashLight"** - A game in which a player holds a flashlight to scare away zombies while collecting Ruby gems! FrontEnd||BackEnd||Demo
   - **"Canvas"** - A school platform, where it provides a list of Schools,courses, and professors. Students can register and drop a class, Professors can create and remove a class. Repo||Demo
@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 
-## What I'm working on now:
-<p>While I'm job searching, I'm currently learning how to use React Native, Node.js.</p>
+## <h2 align="center">What I'm working on now</h4>
+<p align="center">While I'm job searching, I'm currently learning how to use React Native, Node.js.</p>
 
 
-<h4> I am open to junior positions in the the DMV (D.C., Maryland, Virginia) area </h4>
+<h4 align="center"> I am open to junior positions in the the DMV (D.C., Maryland, Virginia) area. </h4>
 
 
 
