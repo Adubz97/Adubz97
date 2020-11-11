@@ -1,5 +1,5 @@
 
-![banner](Images/Software Engineer- github Banner.png)
+![banner](https://github.com/Adubz97/Adubz97/blob/main/Images/Software Engineer- github Banner.png)
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abdullahalbasha" title="LinkedIn"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
