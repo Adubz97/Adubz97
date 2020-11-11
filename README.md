@@ -5,10 +5,11 @@
   <code><a href="https://www.linkedin.com/in/abdullahalbasha" title="LinkedIn"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="http://medium.com/@abdullah.a.albasha" title="Medium"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/medium.svg"> Medium</a></code>
   <code><a href="https://www.instagram.com/3bdallah97" title="Instagram"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://twitter.com/A_Albasha97" title="Twitter"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/Twitter.png"> Instagram</a></code>
+  <code><a href="https://twitter.com/A_Albasha97" title="Twitter"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/Twitter.png"> Twitter</a></code>
 </h5>
 
-## <h2 align="center">Hi there 👋  My name is Abdullah Albasha!</h2>
+<br>
+ <h2 align="center">Hi there 👋  My name is Abdullah Albasha!</h2>
 
 I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails and JavaScript based programming. Passionate about learning new cutting edge technologies, languages, and frameworks. Excels as a team player and able to work independently. Ability to learn and master new technologies quickly, Highly adaptable and engaged to problem solve effectively.
 
