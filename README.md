@@ -3,7 +3,7 @@
 
 ## <h2 align="center">Hi there 👋  My name is Abdullah Albasha!</h4>
 
-<p>I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails and JavaScript based programming. Passionate about learning new cutting edge technologies, languages, and frameworks. Excels as a team player and able to work independently. Ability to learn and master new technologies quickly, Highly adaptable and engaged to problem solve effectively.
+   I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails and JavaScript based programming. Passionate about</p> learning new cutting edge technologies, languages, and frameworks. Excels as a team player and able to work independently. Ability to learn and master new technologies quickly, Highly adaptable and engaged to problem solve effectively.
   
 ## <h2 align="center">Flatiron School Projects</h4>
   - **"JustRight"**- A single page app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
