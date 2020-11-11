@@ -6,7 +6,7 @@
 <p>I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails and JavaScript based programming. Passionate about learning new cutting edge technologies, languages, and frameworks. Excels as a team player and able to work independently. Ability to learn and master new technologies quickly, Highly adaptable and engaged to problem solve effectively.
   
 ## Flatiron School Projects:
-  - "JustRight"- A single page web app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
+  - "JustRight"- A single page app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
   - "FlashLight" - A game in which a player holds a flashlight to scare away zombies while collecting Ruby gems! FrontEnd||BackEnd||Demo
   - "Canvas" - A school platform, where it provides a list of Schools,courses, and professors. Students can register and drop a class, Professors can create and remove a class. Repo||Demo
   - "Scene It!"- A CLI application designed to find movie and TV show film locations. Repo || Screenshot
