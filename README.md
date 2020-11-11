@@ -3,9 +3,10 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/abdullahalbasha" title="LinkedIn"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="http://medium.com/@abdullah.a.albasha" title="Medium"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/images/medium.svg"> Medium</a></code>
-  <code><a href="https://www.instagram.com/3bdallah97" title="Instagram"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/abdullahalbasha" title="LinkedIn"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="http://medium.com/@abdullah.a.albasha" title="Medium"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/medium.svg"> Medium</a></code>
+  <code><a href="https://www.instagram.com/3bdallah97" title="Instagram"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://twitter.com/A_Albasha97" title="Twitter"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/Twitter.png"> Instagram</a></code>
 
 </h5>
 
