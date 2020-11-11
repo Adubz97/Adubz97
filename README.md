@@ -9,7 +9,7 @@
 </h5>
 
 <br>
-## <h2 align="center">Hi there 👋  My name is Abdullah Albasha!</h2>
+ <h2 align="center">Hi there 👋  My name is Abdullah Albasha!</h2>
 
 I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails and JavaScript based programming. Passionate about learning new cutting edge technologies, languages, and frameworks. Excels as a team player and able to work independently. Ability to learn and master new technologies quickly, Highly adaptable and engaged to problem solve effectively.
 
