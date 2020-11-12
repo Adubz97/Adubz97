@@ -28,7 +28,7 @@ I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails an
 <p align="center">While I'm job searching, I'm currently learning how to use React Native, Node.js.</p>
 
 
-<h4 align="center"> I am open to junior positions in the the DMV (D.C., Maryland, Virginia) area. </h4>
+<h4 align="center"> I am open to Full Stack Software Engineer positions in the the DMV (D.C., Maryland, Virginia) area. </h4>
 
 
 
