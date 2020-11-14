@@ -16,7 +16,7 @@
 ## <h2 align="center">Flatiron School Projects</h2>
   - **"JustRight"**- A single page React app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
   - **"FlashLight"** - A game in which a player holds a flashlight to scare away zombies while collecting Ruby gems! FrontEnd||BackEnd||Demo
-  - **"Canvas"** - A school platform, where it provides a list of Schools,courses, and professors. Students can register and drop a class, Professors can create and remove a class. Repo||Demo
+  - **"Canvas"** - An app that allows students to search schools, courses at their university and register for them, also allows professors to check the classes they are offering. Repo||Demo
   - **"Scene It!"**- A CLI application designed to find movie and TV show film locations. Repo || Screenshot
 
 ## <h2 align="center">Languages & Frameworks</h2>
