@@ -11,10 +11,10 @@
 <br>
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Abdullah Albasha!</h2>
 
-I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails and JavaScript based programming. Passionate about learning new cutting edge technologies, languages, and frameworks. Excels as a team player and able to work independently. Ability to learn and master new technologies quickly, Highly adaptable and engaged to problem solve effectively.
+<p align= "center"> I'm a Full Stack Software Engineer experienced in Ruby on Rails and JavaScript based programming. </p>
 
 ## <h2 align="center">Flatiron School Projects</h2>
-  - **"JustRight"**- A single page app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
+  - **"JustRight"**- A single page React app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
   - **"FlashLight"** - A game in which a player holds a flashlight to scare away zombies while collecting Ruby gems! FrontEnd||BackEnd||Demo
   - **"Canvas"** - A school platform, where it provides a list of Schools,courses, and professors. Students can register and drop a class, Professors can create and remove a class. Repo||Demo
   - **"Scene It!"**- A CLI application designed to find movie and TV show film locations. Repo || Screenshot
@@ -25,7 +25,7 @@ I'm a Full Stack Software Engineer/Web Developer experienced in Ruby on Rails an
 
 
 ## <h2 align="center">What I'm working on now</h2>
-<p align="center">While I'm job searching, I'm currently learning how to use React Native, Node.js.</p>
+<p align="center">While I'm job searching, I'm currently learning how to use Node.js.</p>
 
 
 <h4 align="center"> I am open to Full Stack Software Engineer positions in the the DMV (D.C., Maryland, Virginia) area. </h4>
