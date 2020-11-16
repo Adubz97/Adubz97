@@ -14,7 +14,7 @@
 <p align= "center"> I'm a Full Stack Software Engineer experienced in Ruby on Rails and JavaScript based programming. </p>
 
 ## <h2 align="center">Flatiron School Projects</h2>
-  - **"JustRight"**- A single page React app that provides parents top quality services such as tutoring and babysitting. FrontEnd||BackEnd||Demo
+  - **"JustRight"**- A single page React app that provides parents top quality services such as tutoring and babysitting. [FrontEnd](https://github.com/Adubz97/Mod5-JustRight-Frontend)||[BackEnd](https://github.com/Adubz97/Mod5-JustRight-Backend)||[Demo](https://youtu.be/sr2GfYfxuak)
   - **"FlashLight"** - A game in which a player holds a flashlight to scare away zombies while collecting Ruby gems! FrontEnd||BackEnd||Demo
   - **"Canvas"** - An app that allows students to search schools, courses at their university and register for them, also allows professors to check the classes they are offering. Repo||Demo
   - **"Scene It!"**- A CLI application designed to find movie and TV show film locations. Repo || Screenshot
