@@ -27,7 +27,7 @@
 
 
 ## <h2 align="center">What I'm working on now</h2>
-<p align="center">While I'm job searching, I'm currently learning how to use Node.js.</p>
+<p align="center">While I'm job searching, I'm currently working on my portfolio website and I am planning to learn new technologies such as Node.js.</p>
 
 
 <h4 align="center"> I am open to Full Stack Software Engineer positions in the the DMV (D.C., Maryland, Virginia) area. </h4>
