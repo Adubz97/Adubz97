@@ -11,7 +11,7 @@
 <br>
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Abdullah Albasha!</h2>
 
-<p align= "center"> I'm a Full Stack Software Engineer experienced in Ruby on Rails and JavaScript based programming. </p>
+<p align= "center"> I'm a Full Stack Web Developer || Software Engineer experienced in Ruby on Rails and JavaScript based development. </p>
 
 ## <h2 align="center"> 💻 What I'm working on now</h2>
 <p align="center">While I'm job searching, I'm currently working on my portfolio website and I am planning to learn new technologies such as Node.js.</p>
