@@ -13,7 +13,7 @@
 
 <p align= "center"> I'm a Full Stack Software Engineer experienced in Ruby on Rails and JavaScript based programming. </p>
 
-## <h2 align="center">What I'm working on now</h2>
+## <h2 align="center"> 💻 What I'm working on now</h2>
 <p align="center">While I'm job searching, I'm currently working on my portfolio website and I am planning to learn new technologies such as Node.js.</p>
 
 
