@@ -1,5 +1,10 @@
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Abdullah Albasha!</h2>
 
-![banner](https://github.com/Adubz97/Adubz97/blob/main/Images/banner.png)
+<p align= "center"> I'm a Full Stack Web Developer || Software Engineer experienced in Ruby on Rails and JavaScript based development. </p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Adubz97/Adubz97/blob/main/Images/code.gif">
+</p>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abdullahalbasha" title="LinkedIn"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
@@ -9,9 +14,6 @@
 </h5>
 
 <br>
- <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Abdullah Albasha!</h2>
-
-<p align= "center"> I'm a Full Stack Web Developer || Software Engineer experienced in Ruby on Rails and JavaScript based development. </p>
 
 ## <h2 align="center"> 💻 What I'm working on now</h2>
 <p align="center">While I'm job searching, I'm currently working on my portfolio website and I am planning to learn new technologies such as Node.js.</p>
