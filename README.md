@@ -42,6 +42,6 @@
 
 <h4 align="center"> I am open to Full Stack Software Engineer positions in the the DMV (D.C., Maryland, Virginia) area. </h4>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Adubz97.visitor-badge)
+
 
 
