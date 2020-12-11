@@ -5,7 +5,8 @@
   <img align="right" width="560" height="300" src="https://github.com/Adubz97/Adubz97/blob/main/Images/code.gif">
 </p>
 
-
+</br>
+</br>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abdullahalbasha" title="LinkedIn"><img width="22" src="https://github.com/Adubz97/Adubz97/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
   </h5>
@@ -43,5 +44,5 @@
 <h4 align="center"> I am open to Full Stack Software Engineer positions in the the DMV (D.C., Maryland, Virginia) area. </h4>
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Adubz97.visitor-badge)
 
