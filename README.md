@@ -1,6 +1,6 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Abdullah Albasha!</h2>
 
-<p align= "center"> I'm a Full Stack Web Developer || Software Engineer experienced in Ruby on Rails and JavaScript based development. </p>
+<p align= "center"> I'm a Software Engineer experienced in Ruby on Rails and JavaScript based development. </p>
 <p>
   <img align="right" width="560" height="300" src="https://github.com/Adubz97/Adubz97/blob/main/Images/code.gif">
 </p>
